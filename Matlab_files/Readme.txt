@@ -1,7 +1,6 @@
-##Optimization workflow
+#Optimization code overview
 
-###Functions 
-
+##Functions:
 1) main 
 2) update control schedules 
 3) trajectory,py
@@ -11,13 +10,12 @@
 7) forward simulation and gradient
 8) Final rates
 
-### Main file
+### main function
 
 1) Standard setup
 1. Clear all variables, close everything
 2. start timing
 3. Set up directories
-
 
 2)  Set reservoir dimensions
 1. Number of grids, dimension of reservoir
@@ -46,7 +44,7 @@
 
 
 
-### Well control optimization: Big picture
+## Well control optimization: Big picture
 
 1) initialize variable, set stop criteria
 
