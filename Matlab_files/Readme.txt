@@ -1,6 +1,6 @@
-## Optimization workflow
+##Optimization workflow
 
-### Functions 
+###Functions 
 
 1) main 
 2) update control schedules 
