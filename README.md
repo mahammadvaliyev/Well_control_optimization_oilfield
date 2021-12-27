@@ -7,6 +7,8 @@ Significant fraction of oil is left in reservoirs when utilizing only primary re
 
 ## Workflow components
 
+![workflow_components](https://user-images.githubusercontent.com/68789630/147499479-7a241419-f66f-475b-b833-d19d34aa60eb.jpg)
+
 ## Reservoir model
 
 ## Results
