@@ -16,3 +16,8 @@ Significant fraction of oil is left in reservoirs when utilizing only primary re
 ## Results
 
 ![results](https://user-images.githubusercontent.com/68789630/147499547-3761f0c4-ad43-46f4-ae18-6094fb7a043a.jpg)
+
+## Files
+- project presentation
+- project report
+- Matlab files (main and auxiliary functions for running project code). Note that you need 1) Matlab and 2) MRST to run the code
