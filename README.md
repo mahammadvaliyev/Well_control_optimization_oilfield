@@ -21,4 +21,4 @@ Significant fraction of oil is left in reservoirs when utilizing only primary re
 - project presentation
 - project report
 - Matlab files (main and auxiliary functions for running project code)
-- Note that you need 1) Matlab and 2) MRST to run the code
+Note that you need 1) Matlab and 2) MRST to run the code
