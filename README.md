@@ -14,3 +14,5 @@ Significant fraction of oil is left in reservoirs when utilizing only primary re
 ![model_details](https://user-images.githubusercontent.com/68789630/147499508-757e6916-00e9-4e97-b71c-0d54cd497b63.jpg)
 
 ## Results
+
+![results](https://user-images.githubusercontent.com/68789630/147499547-3761f0c4-ad43-46f4-ae18-6094fb7a043a.jpg)
